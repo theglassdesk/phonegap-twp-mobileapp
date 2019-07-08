@@ -13,11 +13,11 @@
     </description>
 
     <author href="http://theglassdesk.com" email="support@theglassdesk.com">
-        PhoneGap Team
+        Rebecca Clark
     </author>
 
     <!-- Define the main entry-point to the application -->
-    <content src="index.html" />
+    <content src="https://thewritepoint.com" />
 
     <!-- Customize your app and platform with the preference element. -->
     <preference name="DisallowOverscroll"         value="true" />
